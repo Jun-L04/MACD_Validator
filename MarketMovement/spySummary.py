@@ -31,3 +31,5 @@ win_rate = win / data['queryCount']
 loss_rate = loss / data['queryCount']
 print(f'Win rate: {win_rate}')
 print(f'Loss rate: {loss_rate}')
+
+
